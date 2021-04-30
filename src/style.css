@@ -1,12 +1,10 @@
 /* styles go here */
 fieldset {
   margin-bottom: 20px;
-
 }
 
 label {
   display: inline;
-
 }
 
 .container {
@@ -15,5 +13,4 @@ label {
 
 .container:last-child {
   margin-bottom: 0;
-
 }
